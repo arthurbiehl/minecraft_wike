@@ -10,6 +10,7 @@
                 <a href="/">INICIO</a>
                 <a href="/bloco">BLOCOS</a>
                 <a href="/tool">CRAFTING</a>
+                <a href="/pokemon">CRAFTING</a>
             </div>
         </div>
 
